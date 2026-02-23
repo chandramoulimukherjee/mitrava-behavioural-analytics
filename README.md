@@ -18,14 +18,18 @@ This project explores how behavioural data modelling can help quantify alignment
 ## Technical Stack
 - Python
 - Data processing & scoring logic
-- Behavioural pattern modelling
 - Basic analytics framework
+- Behavioural Pattern Modelling
+- Basic Statistical Analysis
+- Modular System Architecture
 
 ## Future Scope
 - Advanced statistical modelling
 - Machine learning–based pattern classification
 - Real-time monitoring dashboard
 - Integration with productivity tools
+- Integration with real-time digital usage APIs
+- Machine learning–based behavioural prediction
 
 ## Author
 Chandramouli Mukherjee  
