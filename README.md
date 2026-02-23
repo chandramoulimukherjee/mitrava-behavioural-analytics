@@ -1,2 +1,32 @@
-# mitrava-behavioural-analytics
-Behavioural analytics system for digital usage pattern modelling and goal alignment scoring.
+# Mitrava: Behavioural Analytics System for Digital Usage Pattern Analysis
+
+## Overview
+Mitrava is a behavioural analytics system designed to analyse digital usage patterns and compute goal-alignment scores.  
+The system models user interaction behaviour and evaluates how closely digital activity aligns with predefined productivity goals.
+
+## Motivation
+Modern digital environments often lead to fragmented attention and unstructured usage patterns.  
+This project explores how behavioural data modelling can help quantify alignment between intended goals and actual digital behaviour.
+
+## Key Features
+- Digital usage pattern modelling
+- Behavioural scoring mechanism
+- Goal-alignment computation
+- Structured data logging
+- Modular Python-based architecture
+
+## Technical Stack
+- Python
+- Data processing & scoring logic
+- Behavioural pattern modelling
+- Basic analytics framework
+
+## Future Scope
+- Advanced statistical modelling
+- Machine learning–based pattern classification
+- Real-time monitoring dashboard
+- Integration with productivity tools
+
+## Author
+Chandramouli Mukherjee  
+B.Tech Computer Science & Engineering
